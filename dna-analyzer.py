@@ -26,3 +26,4 @@ if __name__ == "__main__":
    gc_percent = calculate_gc_content(dna_seq)
    print(f"The GC content is: {gc_percent:.2f}%")
 
+wobuzhidaoyaoxiugaishenme
